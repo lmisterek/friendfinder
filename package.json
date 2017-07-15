@@ -1,0 +1,19 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmisterek/friendfinder.git"
+  },
+  "author": "LeeAnna Misterek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmisterek/friendfinder/issues"
+  },
+  "homepage": "https://github.com/lmisterek/friendfinder#readme"
+}
